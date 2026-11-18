@@ -3,7 +3,24 @@
 Interaktywna mapa 3D Układu Słonecznego i wybranych egzoplanet.
 Projekt z przedmiotu „Webowe interfejsy graficzne” — Ihor Komanov, grupa PAW-2.
 
-**Stack:** React · Three.js / React Three Fiber · Chakra UI · Framer Motion · Vite
+**Strona:** https://ikomanov1.github.io/cosmoexplorer/
+
+**Stack:** React, Three.js / React Three Fiber, Chakra UI, Framer Motion, Vite
+
+## Funkcje
+- Interaktywna scena 3D Układu Słonecznego: obrót, przybliżanie, ruch planet po orbitach
+- Suwak tempa symulacji i pauza
+- Panel boczny ze szczegółami obiektu (dane fizyczne, orbita, porównanie z Ziemią)
+- Katalog planet i egzoplanet z filtrami według kategorii i wyszukiwarką
+- Porównanie dwóch obiektów w rzeczywistej skali
+- Wykres promienia i temperatury egzoplanet z zaznaczoną strefą możliwej ciekłej wody
+
+## Jak powstał projekt
+
+Specyfikację projektu (funkcjonalności, komponenty UI, stack technologiczny) przygotował autor.
+Pierwsza wersja kodu, projekt graficzny i konfiguracja GitHub Actions zostały wygenerowane
+z pomocą asystenta AI **Claude** (Anthropic) na podstawie tej specyfikacji.
+Dalszy rozwój projektu prowadzi autor, a kolejne zmiany są widoczne w historii commitów.
 
 ## Uruchomienie lokalne
 
